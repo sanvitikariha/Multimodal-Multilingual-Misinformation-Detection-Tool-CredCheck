@@ -1,4 +1,4 @@
-# TruthTell - Hackathon Project - CredCheck
+# Multimodal and Multilingual Misinformation Detection Tool-CredCheck
 
 A comprehensive Streamlit application designed to detect fake news from various inputs such as text, audio, images, and videos.
 
