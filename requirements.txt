@@ -1,0 +1,14 @@
+streamlit
+langdetect
+Pillow
+pytesseract
+transformers
+torch
+speechrecognition
+pydub
+requests
+google-generativeai
+absl-py
+numpy
+scikit-learn
+spacy
